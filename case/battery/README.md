@@ -13,6 +13,8 @@
 
 * bottom right
 ![right part](images/bottom_r.png)
+* logo 2x size
+![logo x2](images/logo_x2.png)
+
 # TODO
-* add logo 2x size
 * test if it works
