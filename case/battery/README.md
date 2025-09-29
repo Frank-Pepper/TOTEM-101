@@ -15,7 +15,7 @@
 ![right part](images/bottom_r.png)
 * logo 2x size
 ![logo x2](images/logo_x2.png)
-
+* d20 variant
+![d20](images/d20.png)
 # TODO
 * test if it works
-* add support switch support in other files than d20?
