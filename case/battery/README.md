@@ -18,3 +18,4 @@
 
 # TODO
 * test if it works
+* add support switch support in other files than d20?
